@@ -1,6 +1,11 @@
-# 👋 DRUGPARADIGM
+  ![Drugparadigm-logo](Drugparadigm-logo.png)
 
-**Generative AI for Next-Generation Therapeutics**
+<div align="center">
+
+### Generative AI for Next-Generation Therapeutics
+
+</div>
+
 
 DrugParadigm is a generative AI–powered startup accelerating drug discovery through a unified, ready-to-use AI platform.  
 Founded in **January 2025**, we bring together an interdisciplinary team of **30 researchers and engineers across 4 campuses** (KMIT,NGIT,KMEC,KMCE), focused on solving complex drug discovery problems using deep learning and generative models.

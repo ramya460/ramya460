@@ -1,6 +1,9 @@
-  ![Drugparadigm-logo](Drugparadigm-logo.png)
+<p align="center">
+  <img src="Drugparadigm-logo.png" alt="DrugParadigm logo" width="300"/>
+</p>
 
-<div align="center">
+
+<div align="center" >
 
 ### Generative AI for Next-Generation Therapeutics
 
@@ -61,6 +64,6 @@ We are open to:
 
 🌐 Website: https://drugparadigm.com  
 📧 Email: outreach@drugparadigm.in  
-📍 Location: Uppal, India  
+📍 Location: K-Hub Incubation Forum, Survey Number 35, Near NGIT, Peerzadiguda, Hyderabad, Telangana - 500039
 
 ---

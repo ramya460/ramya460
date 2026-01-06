@@ -66,4 +66,3 @@ We are open to:
 📧 Email: outreach@drugparadigm.in  
 📍 Location: K-Hub Incubation Forum, Survey Number 35, Near NGIT, Peerzadiguda, Hyderabad, Telangana - 500039
 
----

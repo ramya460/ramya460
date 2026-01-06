@@ -15,7 +15,7 @@ Founded in **January 2025**, we bring together an interdisciplinary team of **30
 
 ---
 
-## 🧬 What We Do
+### 🧬 What We Do
 
 We are building a **versatile AI ecosystem** that democratizes drug discovery via:
 - ☁️ **Cloud-based platform**
@@ -26,7 +26,7 @@ Our models capture complex relationships between **structure, sequence, and bioc
 
 ---
 
-## 🧬 Focus
+### 🧬 Focus
 
 We build **state-of-the-art predictive and generative models** that capture complex relationships between **molecular structure, biological sequence, and biochemical properties**, enabling faster and more reliable therapeutic design.
 
@@ -40,7 +40,7 @@ Our research spans next-generation drug modalities including:
 
 ---
 
-## 🚀 Why It Matters
+### 🚀 Why It Matters
 
 - Models outperform benchmarks published in **Nature, Oxford**, and leading academic labs
 - Designed for **real-world drug discovery**, not toy datasets
@@ -51,7 +51,7 @@ Associated research papers are currently **under peer review**.
 
 ---
 
-## 🤝 Collaboration
+### 🤝 Collaboration
 
 We are open to:
 - Co-developing custom AI models
@@ -60,7 +60,7 @@ We are open to:
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
 🌐 Website: https://drugparadigm.com  
 📧 Email: outreach@drugparadigm.in  

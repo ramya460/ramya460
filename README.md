@@ -2,51 +2,68 @@
   <img src="Drugparadigm-logo.png" alt="DrugParadigm logo" width="300"/>
 </p>
 
+<div align="center">
 
-<div align="center" >
-
-### Generative AI for Next-Generation Therapeutics
+### Generative AI for Next-Generation Therapeutics  
+Research-driven • Platform-first • Modality-focused
 
 </div>
 
+---
 
 DrugParadigm is a generative AI–powered startup accelerating drug discovery through a unified, ready-to-use AI platform.  
-Founded in **January 2025**, we bring together an interdisciplinary team of **30 researchers and engineers across 4 campuses** (KMIT,NGIT,KMEC,KMCE), focused on solving complex drug discovery problems using deep learning and generative models.
+Founded in **January 2025**, we bring together an interdisciplinary team of **30 researchers and engineers across 4 campuses** (KMIT, NGIT, KMEC, KMCE), focused on solving complex drug discovery challenges using deep learning and generative models.
 
 ---
 
 ### 🧬 What We Do
 
-We are building a **versatile AI ecosystem** that democratizes drug discovery via:
-- ☁️ **Cloud-based platform**
-- 🔌 **Direct API integration**
-- 🖥 **Dedicated GPU infrastructure**
+We build a **versatile AI ecosystem** designed to make advanced drug discovery more accessible and scalable through:
 
-Our models capture complex relationships between **structure, sequence, and biochemical properties**, enabling state-of-the-art predictive and generative performance across multiple drug modalities.
+- ☁️ Cloud-based model access  
+- 🔌 Direct API integration  
+- 🖥 Dedicated GPU infrastructure  
+
+Our systems are built to model **complex biological and chemical interactions**, enabling reliable predictive and generative performance across advanced therapeutic modalities.
 
 ---
 
 ### 🧬 Focus
 
-We build **state-of-the-art predictive and generative models** that capture complex relationships between **molecular structure, biological sequence, and biochemical properties**, enabling faster and more reliable therapeutic design.
+Our research targets **next-generation drug modalities** that demand advanced AI beyond traditional small-molecule assumptions:
 
-Our research spans next-generation drug modalities including:
-- Antibody–Drug Conjugates (ADCs)
-- PROTACs
-- Molecular Glues
-- Macrocycles
-- Peptide Therapeutics
-- Binding Affinity Prediction (protein–protein, peptide–MHC)
+- Antibody–Drug Conjugates (ADCs)  
+- PROTACs  
+- Molecular Glues  
+- Macrocycles  
+- Peptide Therapeutics  
+- Binding affinity prediction (protein–protein, peptide–MHC)
+
+---
+
+### 🛠 Currently Building
+
+- Generative models for complex therapeutic design  
+- A unified cloud + API platform for AI-driven drug discovery  
+- Research-grade systems transitioning toward real-world deployment  
+
+---
+
+### ⚙️ Core Technologies
+
+**Modeling:** Diffusion Models, Transformers, GNNs, SE(3)-equivariant models  
+**ML Stack:** PyTorch, PyTorch Geometric  
+**Infrastructure:** NVIDIA A100, multi-node GPU clusters  
 
 ---
 
 ### 🚀 Why It Matters
 
-- Models outperform benchmarks published in **Nature, Oxford**, and leading academic labs
-- Designed for **real-world drug discovery**, not toy datasets
-- Bridging research-grade AI with deployable platforms
+- Models outperform benchmarks published in **Nature, Oxford**, and leading academic labs  
+- Designed for **real-world drug discovery**, not toy datasets  
+- Bridging research-grade AI with deployable platforms  
 
-All models are accessible via **drugparadigm.com**.  
+All models are accessible via **https://drugparadigm.com**.  
 Associated research papers are currently **under peer review**.
 
 ---
@@ -54,15 +71,15 @@ Associated research papers are currently **under peer review**.
 ### 🤝 Collaboration
 
 We are open to:
-- Co-developing custom AI models
-- Research collaborations
-- Providing access to our AI frameworks & compute infrastructure
+- Research collaborations  
+- Co-development of custom AI models  
+- Providing access to our AI frameworks and compute infrastructure  
 
 ---
 
 ### 📫 Contact
 
-🌐 Website: https://drugparadigm.com  
-📧 Email: outreach@drugparadigm.in  
-📍 Location: K-Hub Incubation Forum, Survey Number 35, Near NGIT, Peerzadiguda, Hyderabad, Telangana - 500039
+🌐 **Website:** https://drugparadigm.com  
+📧 **Email:** outreach@drugparadigm.in  
+📍 **Location:** K-Hub Incubation Forum, Survey No. 35, Near NGIT, Peerzadiguda, Hyderabad, Telangana – 500039
 
